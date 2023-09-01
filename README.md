@@ -1,2 +1,4 @@
 # SQL_codes
-More complex SQL codes for search
+
+Directory contains more complex SQL codes that I have developed, either at work or in studies.
+Personal file for future reference.
